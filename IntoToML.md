@@ -28,3 +28,21 @@ Reinforcement Learning)
 patterns in the training data and building a predictive model, much like scientists do (instance-based
 versus model-based learning)
  # Read page 26 to 40 
+
+
+ 2. Main challenge of machine learning 
+ When working with machine learning, 2 challenges usually rise and are more important than others :
+  - Bad data 
+  - Bad algorithm 
+
+
+  2. 1 Bad data 
+  
+  Various form of bad data can arise as issues, namely :
+  - insufficient quantity of training data 
+  - Nonrepresentative training data 
+  - Poor-quality data 
+  - Irelevant features. 
+
+  # Read page 40 to 43 
+  
