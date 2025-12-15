@@ -5,14 +5,15 @@
     w  = weight
     b  = biais
 
-### cost function 
-Y(hat)^i =f_w,b(xi) = wxi + b
+### cost function  :
 
-1/2mSum((Y(hat)^i - Y^i)^2) from 1 to m
+    Y(hat)^i =f_w,b(xi) = wxi + b
 
-w = w - alpha d/dw(J(w,b)) (1)
+    1/2mSum((Y(hat)^i - Y^i)^2) from 1 to m
 
-b = b - alpha d/db(J(w,b)) (2) 
+    w = w - alpha d/dw(J(w,b)) (1)
+
+    b = b - alpha d/db(J(w,b)) (2) 
 
 
 alpha is the learning rate 
