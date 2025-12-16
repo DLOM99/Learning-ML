@@ -11,9 +11,9 @@
 
     1/2mSum((Y(hat)^i - Y^i)^2) from 1 to m
 
-    w = w - alpha d/dw(J(w,b)) (1)
+    w = w - alpha d(J(w,b))/dw (1)
 
-    b = b - alpha d/db(J(w,b)) (2) 
+    b = b - alpha d(J(w,b))/db (2) 
 
 
 alpha is the learning rate 
